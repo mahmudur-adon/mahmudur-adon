@@ -1,6 +1,6 @@
--Hi, I’m mahmudur rahman 
--I’m interested in full stack web development
--I’m currently learning flutter
+-Hi, I’m Mahmudur Rahman <br>
+-I’m interested in full stack web development <br>
+-I’m currently learning flutter <br>
 
 
 <!---
