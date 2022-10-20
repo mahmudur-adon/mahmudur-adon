@@ -1,6 +1,7 @@
 -Hi, I’m Mahmudur Rahman <br>
--I’m interested in full stack web development <br>
--I’m currently learning flutter <br>
+-I’m Software QA Engineer @ BJIT Group <br>
+-I’ve automated testcases of an ecommerce website using robot framework, Selenium and a macos application using Appium  <br>
+-I am always ready to learn new things!<br>
 
 
 <!---
